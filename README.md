@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows falling soft across the wooden floor
+> Every look you give is making me want more
+> Lost inside the rhythm of your quiet breathing
+> You're the only reason that my heart is beating
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
