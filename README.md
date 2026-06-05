@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tangled-in-your-soul/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tangled In Your Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-your-soul/) |
+| **Get License** | [License this song: Tangled In Your Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-your-soul/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `991ae6d50c0b8b16ee60b0fa25a23995180dcf1b35c15f6f7ea3f665e7b74197` |
 | **Timestamp** | June 05, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

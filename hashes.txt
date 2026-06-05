@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tangled In Your Soul
+
+This log tracks the cryptographic history and versioning for the song **Tangled In Your Soul** (tangled-in-your-soul).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-05T21:26:50.554213 | `v1` | `991ae6d50c0b8b16ee60b0fa25a23995180dcf1b35c15f6f7ea3f665e7b74197` | `eb9cb68d2c25a7eed23de6ac30d95a3f839bad36bd33886b2042122958c042f5` | `2026-06-05_tangled-in-your-soul-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
